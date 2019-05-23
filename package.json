@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jmj010/cryptoServiceBackend/issues"
   },
-  "homepage": "https://github.com/jmj010/cryptoServiceBackend#readme"
+  "homepage": "https://github.com/jmj010/cryptoServiceBackend#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
