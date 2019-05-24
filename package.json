@@ -1,5 +1,5 @@
 {
-  "name": "cryptoservicebackend",
+  "name": "cryptoServiceBackend",
   "version": "1.0.0",
   "description": "Backend for the crypto service",
   "main": "index.js",
