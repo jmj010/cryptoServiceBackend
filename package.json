@@ -1,7 +1,7 @@
 {
   "name": "cryptoServiceBackend",
   "version": "1.0.0",
-  "description": "Backend for the crypto trading website",
+  "description": "Back-end for the crypto trading website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
