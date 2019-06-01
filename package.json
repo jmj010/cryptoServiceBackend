@@ -4,6 +4,7 @@
   "description": "Back-end for the crypto trading website",
   "main": "index.js",
   "scripts": {
+    "start": "node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
