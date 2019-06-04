@@ -4,6 +4,7 @@
   "description": "Back-end for the crypto trading website",
   "main": "index.js",
   "scripts": {
+    "lint": "./node_modules/.bin/eslint --fix lib",
     "start": "node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +22,10 @@
     "axios": "^0.19.0",
     "express": "^4.17.0",
     "nodemailer": "^6.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
   }
 }
